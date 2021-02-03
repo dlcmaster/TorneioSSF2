@@ -15,6 +15,8 @@ namespace TorneioSSF2.Entities
         public static string path_tmp { get; private set; } = @"C:\Users\davil\Documents\backup\documentos\C#\TorneioSSF2\tmp";
         public static string path_ultimo_ranking { get; private set; }
 
+        public static string path_classificacao_all_time = @"C:\Users\davil\Documents\backup\documentos\C#\TorneioSSF2\classificacao_all_time.txt";
+
         public static void Start()
         {
             int ondeParou = ContinuaUltimaFase();
@@ -27,7 +29,9 @@ namespace TorneioSSF2.Entities
                     WaitingRoom.Comecar();
                     Finais.Comecar();
                     RankingAtual.AtualizaRanking();
+                    Classificacao.AtualizaClassificacaoGeral();
                     Console.WriteLine("Torneio finalizado.");
+                    Console.ReadLine();
                     break;
                 case 2:
                     ResgateUnico.Comecar();
@@ -35,29 +39,39 @@ namespace TorneioSSF2.Entities
                     WaitingRoom.Comecar();
                     Finais.Comecar();
                     RankingAtual.AtualizaRanking();
+                    Classificacao.AtualizaClassificacaoGeral();
                     Console.WriteLine("Torneio finalizado.");
+                    Console.ReadLine();
                     break;
                 case 3:
                     ChaosShrine.Comecar();
                     WaitingRoom.Comecar();
                     Finais.Comecar();
                     RankingAtual.AtualizaRanking();
+                    Classificacao.AtualizaClassificacaoGeral();
                     Console.WriteLine("Torneio finalizado.");
+                    Console.ReadLine();
                     break;
                 case 4:
                     WaitingRoom.Comecar();
                     Finais.Comecar();
                     RankingAtual.AtualizaRanking();
+                    Classificacao.AtualizaClassificacaoGeral();
                     Console.WriteLine("Torneio finalizado.");
+                    Console.ReadLine();
                     break;
                 case 5:
                     RankingAtual.AtualizaRanking();
+                    Classificacao.AtualizaClassificacaoGeral();
                     Console.WriteLine("Torneio finalizado.");
+                    Console.ReadLine();
                     break;
                 case 6:
                     Finais.Comecar();
                     RankingAtual.AtualizaRanking();
+                    Classificacao.AtualizaClassificacaoGeral();
                     Console.WriteLine("Torneio finalizado.");
+                    Console.ReadLine();
                     break;
             }
         }
