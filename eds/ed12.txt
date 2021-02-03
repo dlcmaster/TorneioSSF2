@@ -1,0 +1,111 @@
+Sonic;1;3;0;3;2;4
+Luigi;5;3;6;2;4;3
+Megaman;2;2;2;3;4;3
+Krystal;2;3;2;4;0;3
+Bomber Man;4;3;4;2;4;1
+Mr. Game & Watch;2;2;2;2;2;2
+Pit;1;2;2;2;1;3
+Tails;2;1;3;3;4;4
+Isaac;2;2;2;2;4;2
+Rayman;2;6;3;6;5;5
+Jigglypuff;5;3;3;4;5;2
+Ganondorf;6;4;8;4;2;5
+Sora;2;3;1;5;1;2
+Waluigi;1;2;5;3;2;3
+Chibi-Robo;4;2;4;2;5;3
+Goku;1;2;2;2;6;3
+Pac-Man;1;2;1;4;2;3
+Naruto;3;1;5;2;1;3
+Ness;2;2;1;2;4;4
+Falco;4;2;3;3;6;2
+Pichu;0;2;4;3;2;6
+Marth;1;5;3;4;4;5
+Wario;8;2;4;2;4;2
+Link;1;3;3;5;3;4
+Mario;3;2;3;3;1;5
+Yoshi;1;2;4;2;6;2
+Black Mage;3;3;0;2;3;3
+Zelda;3;3;6;3;2;4
+Captain Falcon;1;5;2;5;4;3
+Pikachu;6;2;3;3;3;2
+Fox;4;4;2;2;2;3
+Ryu;4;4;2;2;2;3
+Bowser;3;3;1;2;4;2
+Ichigo;2;2;1;2;2;1
+Lloyd;2;4;4;3;2;2
+Kirby;4;2;2;2;1;2
+Peach;2;3;3;2;2;2
+Meta Knight;5;3;5;3;4;3
+Donkey Kong;3;4;2;5;3;4
+Samus;4;4;3;3;2;2
+Lucario;5;4;3;3;2;2
+Bandana Dee;1;2;3;3;3;3
+Luigi;5;4;4;3;3;2
+Mr. Game & Watch;1;2;1;3;1;3
+Pikachu;2;3;3;4;4;3
+Ichigo;4;3;5;3;3;3
+Black Mage;4;2;1;2;4;3
+Bomber Man;4;2;5;4;3;5
+Naruto;0;2;1;3;2;4
+Waluigi;1;3;5;3;6;3
+Lucario;3;2;4;2;0;4
+Kirby;4;3;0;4;6;3
+Chibi-Robo;3;3;1;3;5;3
+Tails;3;5;7;3;2;3
+Zelda;3;4;7;4;2;2
+Link;3;4;3;4;4;2
+Jigglypuff;6;3;4;4;2;3
+Ryu;4;5;2;4;3;4
+Meta Knight;6;3;1;3;2;2
+Peach;2;4;2;3;3;4
+Bowser;4;3;5;2;6;3
+Megaman;2;4;3;3;1;3
+Goku;5;2;4;3;3;3
+Isaac;5;3;3;3;3;3
+Samus;1;3;1;3;2;3
+Ness;2;5;4;3;2;2
+Ganondorf;2;4;4;4;4;4
+Yoshi;3;4;3;4;2;4
+Wario;8;2;5;4;6;3
+Falco;2;5;5;5;1;2
+Ganondorf;5;2;5;5;5;4
+Tails;1;3;3;7;4;5
+Waluigi;1;3;9;4;5;4
+Luigi;3;2;2;3;3;4
+Jigglypuff;2;3;6;3;9;3
+Kirby;1;2;3;4;6;4
+Zelda;4;2;2;3;1;6
+Black Mage;2;2;2;3;1;4
+Isaac;2;3;3;3;2;2
+Ichigo;2;2;2;3;2;4
+Goku;4;4;4;4;4;4
+Bowser;3;2;4;3;4;2
+Wario;6;2;4;2;6;4
+Lucario;1;3;3;2;4;4
+Meta Knight;2;4;1;3;1;4
+Bomber Man;3;3;2;4;5;4
+Ganondorf;2;3;2;2;2;3
+Bomber Man;4;2;4;3;3;2
+Goku;2;3;2;3;3;3
+Wario;3;3;2;3;4;1
+Lucario;2;2;3;3;1;4
+Jigglypuff;2;2;3;2;2;2
+Bowser;6;3;2;3;5;3
+Waluigi;2;3;0;2;0;3
+Kirby;1;3;5;2;4;3
+Bowser;4;3;3;4;3;3
+Bomber Man;2;4;3;4;4;3
+Wario;4;3;5;3;4;5
+Jigglypuff;2;3;2;1;4;3
+Goku;4;5;5;4;5;3
+Kirby;5;3;2;4;0;3
+Wario;9;6
+Bowser;9;8
+Goku;10;8
+Jigglypuff;3;9
+Wario;4;3
+Goku;3;6
+Bowser;7;5
+Bowser;3;5
+Wario;5;3
+Wario

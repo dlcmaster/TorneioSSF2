@@ -1,0 +1,111 @@
+Link;4;2;4;3;5;3
+Peach;2;3;3;3;3;4
+Megaman;2;3;1;2;3;4
+Captain Falcon;0;4;0;2;6;4
+Falco;4;2;4;2;3;4
+Fox;4;2;2;2;3;4
+Sonic;1;2;3;1;2;5
+Ness;3;2;2;2;2;2
+Lloyd;3;3;1;3;4;1
+Samus;2;1;5;3;4;3
+Mr. Game & Watch;1;2;4;3;4;2
+Simon;1;1;1;4;1;4
+Ryu;2;4;5;4;3;3
+Bomber Man;2;4;7;3;5;4
+Mario;5;1;2;7;2;3
+Pikachu;0;3;5;3;6;3
+Ichigo;3;3;4;4;2;4
+Bowser;5;2;0;2;3;4
+Donkey Kong;5;4;4;3;2;1
+Isaac;1;4;4;3;0;1
+Marth;5;3;0;2;1;1
+Black Mage;2;1;2;2;6;2
+Luigi;4;5;2;3;4;5
+Krystal;3;4;5;4;1;4
+Goku;3;4;2;4;3;3
+Lucario;3;3;1;4;3;3
+Pit;3;2;7;2;4;4
+Tails;3;0;5;4;4;3
+Sora;2;2;2;5;2;4
+Pichu;0;3;5;3;3;2
+Bandana Dee;3;3;3;3;3;3
+Chibi-Robo;4;2;1;3;2;2
+Naruto;0;2;4;2;3;3
+Wario;4;2;2;3;4;3
+Kirby;4;3;2;2;6;2
+Zelda;0;3;3;2;1;6
+Pac-Man;6;3;3;3;3;3
+Rayman;3;6;1;2;3;3
+Yoshi;4;4;1;2;2;2
+Jigglypuff;1;2;6;3;5;2
+Waluigi;2;3;0;5;1;4
+Meta Knight;4;2;5;3;2;2
+Pit;3;2;3;6;7;3
+Samus;1;2;3;4;2;3
+Pac-Man;1;3;5;3;2;4
+Tails;3;1;3;4;3;5
+Yoshi;2;3;1;4;2;4
+Meta Knight;2;3;3;5;4;3
+Naruto;1;3;8;3;3;3
+Jigglypuff;6;2;4;4;4;3
+Lloyd;3;3;4;2;4;3
+Pikachu;2;4;1;2;2;6
+Kirby;3;2;1;2;4;3
+Bomber Man;2;2;4;4;6;4
+Donkey Kong;4;3;0;5;5;3
+Pichu;2;3;2;3;4;3
+Link;2;3;7;2;2;3
+Peach;4;3;4;3;1;3
+Goku;6;4;6;5;2;4
+Ryu;2;5;3;3;1;3
+Wario;2;3;2;4;6;4
+Black Mage;5;3;4;3;5;3
+Ness;1;3;2;4;2;3
+Bandana Dee;4;3;4;3;5;4
+Marth;4;4;4;4;5;3
+Luigi;5;4;4;3;1;3
+Bowser;4;4;10;2;6;4
+Falco;3;3;4;6;2;2
+Fox;5;4;3;6;4;3
+Mr. Game & Watch;3;4;1;4;1;4
+Luigi;0;2;6;2;8;3
+Pit;2;3;2;4;0;3
+Peach;5;2;3;4;3;4
+Link;3;3;3;4;3;4
+Bomber Man;1;3;0;4;2;2
+Jigglypuff;4;4;8;3;4;3
+Lloyd;2;3;2;6;1;3
+Bandana Dee;5;2;5;2;3;2
+Tails;4;5;0;2;2;3
+Naruto;5;3;3;3;2;3
+Fox;6;4;5;3;5;3
+Marth;1;4;3;3;2;2
+Kirby;3;3;0;5;2;3
+Goku;4;2;6;3;7;5
+Black Mage;4;3;3;3;5;3
+Bowser;1;4;6;4;1;4
+Fox;1;3;5;3;2;3
+Luigi;5;3;3;3;4;2
+Naruto;3;3;2;3;2;4
+Peach;1;3;2;2;3;3
+Jigglypuff;5;2;2;3;3;3
+Link;1;3;3;2;3;3
+Goku;3;4;2;3;2;2
+Black Mage;3;3;3;2;2;3
+Bandana Dee;3;2;2;2;2;2
+Bandana Dee;5;3;2;4;3;3
+Jigglypuff;0;4;5;3;4;4
+Luigi;6;4;2;2;4;4
+Fox;3;2;3;4;4;4
+Black Mage;4;4;3;3;2;2
+Link;4;5;3;3;2;3
+Bandana Dee;4;6
+Luigi;10;8
+Fox;10;9
+Black Mage;6;7
+Luigi;5;7
+Fox;9;6
+Black Mage;5;6
+Fox;6;4
+Black Mage;4;6
+Fox

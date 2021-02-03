@@ -1,0 +1,111 @@
+Krystal;2;3;2;2;1;3
+Falco;4;3;2;2;5;2
+Pichu;3;3;2;2;4;3
+Pikachu;3;4;3;2;2;3
+Zelda;4;3;2;2;4;2
+Isaac;1;2;2;3;1;2
+Samus;4;3;2;3;2;3
+Marth;0;3;1;5;2;3
+Link;4;2;6;2;5;3
+Simon;0;3;1;3;0;4
+Goku;3;3;4;2;5;3
+Naruto;5;3;2;2;4;2
+Bomber Man;3;3;4;4;2;1
+Captain Falcon;4;3;2;3;1;4
+Wario;2;3;3;2;4;2
+Tails;1;3;0;2;1;3
+Luigi;3;2;3;2;4;1
+Megaman;3;2;2;1;2;3
+Pit;3;3;1;3;2;4
+Ness;1;2;3;3;5;2
+Bowser;3;2;4;2;2;3
+Rayman;4;4;8;3;2;4
+Sonic;3;4;3;4;3;2
+Sora;4;3;1;5;3;2
+Fox;3;6;3;3;3;3
+Pac-Man;3;2;4;6;3;3
+Mr. Game & Watch;4;2;1;3;2;2
+Yoshi;1;2;3;4;2;3
+Ryu;3;2;1;2;2;3
+Jigglypuff;3;3;4;2;3;1
+Donkey Kong;2;3;2;4;4;3
+Peach;2;2;4;3;3;4
+Mario;3;2;4;3;3;3
+Ichigo;2;4;1;3;3;5
+Black Mage;5;2;3;2;8;3
+Bandana Dee;3;4;3;2;1;4
+Meta Knight;5;3;3;4;2;3
+Waluigi;4;4;2;3;4;5
+Chibi-Robo;2;4;4;2;5;3
+Lloyd;0;3;3;6;1;4
+Kirby;3;2;5;2;2;3
+Lucario;4;2;2;2;6;2
+Pichu;5;3;5;8;7;8
+Luigi;2;3;8;5;8;5
+Lucario;3;2;2;5;2;6
+Goku;2;4;8;5;7;5
+Ness;2;3;5;2;2;4
+Zelda;2;4;1;3;1;4
+Peach;4;4;5;4;7;4
+Bowser;5;2;2;4;6;4
+Black Mage;5;3;3;2;7;3
+Mr. Game & Watch;3;4;2;4;2;3
+Jigglypuff;2;3;5;4;3;3
+Samus;2;2;2;3;0;3
+Kirby;3;2;0;3;4;3
+Pikachu;2;2;1;2;2;6
+Ryu;3;4;2;3;6;3
+Naruto;4;4;7;3;6;6
+Chibi-Robo;4;4;7;3;5;3
+Megaman;2;3;4;2;4;3
+Falco;4;5;2;3;2;3
+Rayman;6;4;0;5;1;3
+Wario;8;3;4;3;2;3
+Sonic;2;7;2;3;2;4
+Meta Knight;2;4;4;2;6;2
+Bandana Dee;4;2;1;3;1;2
+Bomber Man;1;4;5;5;1;3
+Link;7;3;7;3;4;2
+Mario;4;2;1;5;1;1
+Pac-Man;1;4;4;4;2;2
+Megaman;2;5;3;3;3;4
+Ryu;4;4;2;3;2;4
+Wario;5;4;4;4;3;3
+Peach;6;4;5;4;5;3
+Meta Knight;6;4;1;3;3;4
+Jigglypuff;6;3;6;3;4;2
+Goku;3;5;1;4;2;4
+Mario;1;4;5;3;4;3
+Black Mage;4;2;0;2;0;3
+Link;4;3;3;5;8;2
+Naruto;3;6;4;3;2;3
+Bowser;5;5;6;3;1;3
+Kirby;0;2;2;4;4;3
+Ness;2;2;4;3;4;2
+Luigi;5;3;8;3;4;5
+Chibi-Robo;4;4;0;4;2;4
+Mario;1;2;2;4;0;3
+Peach;2;3;5;3;3;3
+Meta Knight;4;2;3;3;5;2
+Jigglypuff;4;4;3;2;4;3
+Link;3;4;3;3;1;4
+Luigi;4;3;2;3;5;3
+Ness;5;2;3;2;3;3
+Wario;3;2;3;2;1;3
+Bowser;0;4;1;3;4;2
+Jigglypuff;3;3;4;4;3;3
+Ness;3;4;4;3;1;4
+Peach;4;3;2;3;6;3
+Wario;1;2;4;3;2;5
+Meta Knight;4;3;3;3;4;2
+Luigi;4;4;2;3;6;5
+Meta Knight;7;6
+Jigglypuff;7;10
+Peach;9;5
+Luigi;9;11
+Meta Knight;5;3
+Peach;4;6
+Luigi;5;5
+Meta Knight;6;4
+Luigi;4;6
+Meta Knight

@@ -1,0 +1,111 @@
+Wario;3;3;5;2;3;5
+Falco;4;3;3;4;7;4
+Link;2;3;2;4;2;3
+Meta Knight;1;3;3;3;3;2
+Simon;2;2;2;4;1;3
+Bandana Dee;4;2;5;3;4;3
+Jigglypuff;3;3;1;4;2;4
+Pac-Man;4;3;2;3;3;2
+Chibi-Robo;2;5;6;2;3;2
+Fox;3;2;6;2;3;5
+Goku;4;2;3;4;4;2
+Rayman;0;3;1;4;4;4
+Mario;2;4;4;2;5;5
+Captain Falcon;4;4;3;3;4;4
+Tails;6;4;2;4;5;5
+Bomber Man;1;2;7;3;4;2
+Donkey Kong;3;5;1;4;3;6
+Kirby;5;2;4;5;5;4
+Waluigi;1;3;3;4;3;3
+Luigi;5;3;3;4;5;3
+Samus;3;3;4;2;1;3
+Yoshi;3;2;1;2;0;2
+Zelda;4;4;3;2;3;2
+Megaman;2;3;2;2;3;2
+Krystal;3;5;3;3;2;2
+Isaac;2;3;0;3;2;2
+Marth;5;3;5;2;3;3
+Pit;0;3;4;2;0;3
+Ness;3;2;1;2;5;2
+Naruto;4;3;3;4;2;2
+Ichigo;3;3;2;5;3;2
+Pikachu;3;1;4;2;4;3
+Lloyd;1;3;3;2;1;3
+Ryu;2;2;3;7;4;2
+Bowser;2;3;9;5;2;3
+Sonic;4;3;7;8;2;3
+Mr. Game & Watch;4;4;3;3;3;2
+Pichu;2;4;4;4;1;3
+Peach;4;3;3;3;4;3
+Black Mage;3;2;1;3;5;2
+Sora;2;2;4;2;2;4
+Lucario;1;3;3;3;5;5
+Meta Knight;4;3;2;3;3;2
+Goku;1;3;5;4;6;4
+Fox;3;2;5;4;3;6
+Bandana Dee;3;3;3;4;4;4
+Pikachu;5;2;2;2;1;3
+Tails;1;3;3;2;1;3
+Ichigo;3;3;2;2;2;3
+Peach;2;3;2;3;7;2
+Zelda;5;3;3;5;1;3
+Luigi;2;4;1;4;4;4
+Bowser;4;4;7;3;4;3
+Black Mage;5;5;3;3;3;2
+Kirby;5;2;3;2;3;2
+Pac-Man;2;4;2;1;4;4
+Mr. Game & Watch;2;3;3;2;1;4
+Chibi-Robo;2;2;0;3;6;4
+Falco;3;5;3;4;4;3
+Samus;7;3;3;2;3;2
+Megaman;4;3;3;2;3;3
+Sora;1;4;2;3;1;3
+Marth;1;4;1;3;1;4
+Naruto;5;2;0;3;2;3
+Krystal;4;3;5;4;4;2
+Ness;1;2;6;3;4;2
+Wario;5;4;4;4;4;3
+Mario;2;4;3;4;1;3
+Bomber Man;4;3;4;4;4;2
+Sonic;5;5;4;3;3;4
+Black Mage;5;3;2;2;1;1
+Peach;4;2;4;2;1;2
+Sonic;3;5;2;5;3;2
+Samus;1;3;4;3;2;2
+Meta Knight;5;3;2;4;0;2
+Goku;5;3;3;4;2;3
+Kirby;1;4;2;3;4;2
+Bomber Man;3;4;7;3;4;3
+Pikachu;4;3;2;2;3;3
+Fox;6;4;4;3;3;3
+Ness;1;5;2;3;3;2
+Wario;4;3;2;2;1;2
+Bowser;5;3;4;3;3;4
+Megaman;1;3;1;3;2;3
+Pac-Man;0;3;6;3;3;2
+Krystal;5;2;1;3;3;2
+Krystal;4;4;4;3;4;3
+Peach;4;2;3;2;2;3
+Bowser;1;3;1;3;3;3
+Black Mage;2;2;0;3;2;2
+Goku;1;2;4;1;2;2
+Bomber Man;3;2;3;3;3;3
+Fox;6;2;5;2;5;4
+Pikachu;1;3;3;3;4;4
+Pac-Man;1;3;1;4;2;3
+Goku;2;5;2;3;2;4
+Bomber Man;3;3;4;3;5;1
+Peach;5;2;3;3;1;3
+Fox;2;4;3;4;4;4
+Krystal;5;2;4;4;4;2
+Pikachu;2;3;3;2;1;3
+Peach;7;4
+Krystal;9;9
+Bomber Man;5;6
+Pikachu;8;10
+Peach;3;6
+Krystal;7;5
+Bomber Man;6;5
+Krystal;2;9
+Bomber Man;9;2
+Bomber Man

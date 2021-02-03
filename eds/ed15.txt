@@ -1,0 +1,111 @@
+Pit;2;4;3;3;3;2
+Sora;1;3;1;4;1;4
+Rayman;6;2;5;2;3;1
+Krystal;1;3;3;3;2;3
+Wario;3;1;3;3;3;3
+Waluigi;2;2;2;3;4;3
+Naruto;4;2;2;3;4;3
+Lucario;1;1;3;3;1;2
+Captain Falcon;1;3;3;2;3;3
+Ganondorf;2;2;5;5;6;3
+Kirby;2;2;3;3;2;5
+Yoshi;1;2;2;2;5;5
+Ichigo;5;2;1;3;3;4
+Ryu;1;2;3;2;3;3
+Donkey Kong;2;4;2;2;4;3
+Pac-Man;2;5;1;4;3;2
+Black Mage;3;2;2;3;2;2
+Mario;3;2;5;2;1;2
+Pichu;2;5;4;3;4;3
+Goku;6;1;5;3;2;3
+Samus;0;3;1;4;2;2
+Fox;1;4;3;5;1;3
+Peach;2;2;6;2;4;3
+Bomber Man;5;2;3;5;4;3
+Mr. Game & Watch;2;2;1;3;3;2
+Meta Knight;5;2;4;2;1;2
+Megaman;0;3;2;2;3;3
+Tails;3;6;2;2;2;3
+Pikachu;2;3;2;3;3;2
+Luigi;6;2;4;3;2;2
+Chibi-Robo;5;2;5;3;4;4
+Link;1;2;4;3;3;2
+Sonic;2;4;3;6;2;3
+Marth;1;3;1;2;2;3
+Zelda;5;4;4;4;1;2
+Falco;5;4;3;2;4;2
+Lloyd;4;4;1;4;2;3
+Bowser;3;7;6;3;5;2
+Jigglypuff;6;2;4;4;2;4
+Bandana Dee;3;3;2;2;3;0
+Ness;3;2;3;2;1;3
+Isaac;2;3;2;3;1;2
+Ness;1;3;2;4;6;3
+Mario;2;3;2;3;2;2
+Waluigi;4;3;3;2;1;4
+Black Mage;4;2;4;2;2;2
+Chibi-Robo;4;2;0;5;4;3
+Zelda;1;4;3;3;3;3
+Ryu;2;2;4;3;2;3
+Meta Knight;3;2;5;2;3;3
+Bomber Man;5;3;2;4;1;2
+Ganondorf;5;4;3;3;1;4
+Wario;2;3;4;3;2;2
+Peach;2;4;4;3;5;1
+Luigi;3;4;0;3;7;3
+Yoshi;2;4;2;5;2;4
+Ichigo;4;5;9;3;4;4
+Jigglypuff;7;3;4;4;1;3
+Naruto;8;3;2;3;2;3
+Mr. Game & Watch;2;4;2;3;4;2
+Pichu;3;4;6;4;2;4
+Rayman;4;6;3;3;3;2
+Goku;6;3;3;3;5;2
+Pit;2;3;7;3;3;3
+Bandana Dee;3;3;4;3;2;4
+Captain Falcon;1;3;0;5;2;3
+Pikachu;4;3;4;2;5;4
+Bowser;5;3;1;4;2;3
+Falco;0;3;3;4;1;3
+Link;3;3;4;2;4;2
+Pikachu;2;2;3;3;9;4
+Ryu;3;3;2;3;2;5
+Peach;3;3;3;2;3;3
+Naruto;3;3;4;4;2;4
+Pichu;3;4;6;4;3;3
+Luigi;4;3;2;4;3;4
+Goku;6;3;4;2;6;4
+Pit;2;5;0;2;4;5
+Jigglypuff;2;3;4;2;5;2
+Rayman;1;4;1;3;1;4
+Meta Knight;5;2;3;3;2;3
+Wario;4;3;3;3;4;3
+Link;3;2;6;2;4;1
+Ichigo;1;3;2;3;1;1
+Black Mage;3;3;1;3;1;3
+Ness;4;3;3;4;1;2
+Goku;4;3;3;3;5;4
+Wario;0;3;2;3;4;3
+Pikachu;4;2;3;2;1;3
+Peach;1;3;3;2;3;5
+Pichu;2;3;1;3;2;3
+Link;5;2;3;2;6;3
+Meta Knight;2;2;2;2;2;2
+Ness;1;4;2;2;4;2
+Jigglypuff;6;3;2;2;0;2
+Peach;6;2;5;2;4;3
+Pikachu;2;3;1;3;2;2
+Goku;0;3;3;4;3;4
+Meta Knight;3;3;1;4;4;3
+Link;2;4;5;3;2;3
+Jigglypuff;5;3;4;3;3;3
+Peach;3;6
+Pikachu;5;8
+Jigglypuff;7;6
+Link;10;5
+Link;7;4
+Jigglypuff;3;6
+Pikachu;6;6
+Link;5;4
+Pikachu;4;5
+Link
